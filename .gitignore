@@ -1,0 +1,77 @@
+=====================
+
+Java / Maven
+
+=====================
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+Maven wrapper
+
+.mvn/wrapper/maven-wrapper.jar
+
+=====================
+
+IDE
+
+=====================
+
+IntelliJ IDEA
+
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+Eclipse
+
+.settings/
+.project
+.classpath
+
+VS Code
+
+.vscode/
+
+=====================
+
+OS
+
+=====================
+
+.DS_Store
+Thumbs.db
+
+=====================
+
+Test / Runtime
+
+=====================
+
+hs_err_pid*
+replay_pid*
+*.hprof
+
+=====================
+
+JDK / Toolchains
+
+=====================
+
+.jdk/
+.toolchains/
+
+=====================
+
+Misc
+
+=====================
+
+*.tmp
+*.swp
